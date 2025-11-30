@@ -1,4 +1,4 @@
-### 📄 README.md 模板 (直接复制)
+### 📄 README.md
 
 ````markdown
 # ME332 机器人操作系统期末课程设计
@@ -140,5 +140,3 @@ git push
 <!-- end list -->
 
 ````
-
----
